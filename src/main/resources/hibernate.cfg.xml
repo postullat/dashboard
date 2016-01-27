@@ -13,6 +13,10 @@
         <property name="show_sql">true</property>
         <!-- List of XML mapping files -->
         <!--<mapping resource="Employee.hbm.xml"/>-->
+        <mapping class="ua.lviv.model.Course"/>
+        <mapping class="ua.lviv.model.Department"/>
+        <mapping class="ua.lviv.model.Enrollment"/>
+        <mapping class="ua.lviv.model.Faculty"/>
         <mapping class="ua.lviv.model.Student"/>
 
     </session-factory>
