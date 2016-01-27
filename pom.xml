@@ -10,6 +10,9 @@
     <name>AppFuse Spring MVC Application</name>
     <url>http://www.mycompany.com</url>
 
+    <build>
+        <finalName>dashboard</finalName>
+    </build>
     <properties>
         <spring.version>4.2.4.RELEASE</spring.version>
     </properties>
