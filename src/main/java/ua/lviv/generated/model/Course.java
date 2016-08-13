@@ -1,4 +1,4 @@
-package ua.lviv.model;
+package ua.lviv.generated.model;
 
 // Generated 26.01.2016 22:21:16 by Hibernate Tools 3.4.0.CR1
 
